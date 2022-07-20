@@ -1,0 +1,2 @@
+﻿IF will connect to EF DB first then command is:
+Scaffold-DbContext "workstation id=SqLinkTestDB.mssql.somee.com;packet size=4096;user id=igorv2_SQLLogin_1;pwd=aao2syagz5;data source=SqLinkTestDB.mssql.somee.com;persist security info=False;initial catalog=SqLinkTestDB" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
